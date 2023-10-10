@@ -1,0 +1,16 @@
+.pdf-viewer {
+    width: 100%;
+    margin: 0;
+    padding: 0;
+    height: 100vh;
+    width: 100vh;
+}
+
+.pdf-viewer .react-pdf__Document {
+    width: 100%;
+}
+
+.pdf-viewer .react-pdf__Page {
+    width: 100%;
+}
+
